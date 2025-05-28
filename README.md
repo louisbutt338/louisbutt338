@@ -1,6 +1,6 @@
 ## Louis Butt
 
-Affiliations: <br />
+Affiliations: 
 - University of Birmingham <br />
 - UK Atomic Energy Authority
 
