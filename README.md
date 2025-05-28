@@ -1,20 +1,12 @@
 ## Louis Butt
 
+PhD researcher and nuclear data scientist. Researching accelerator-driven fusion neutron sources at the University of Birmingham MC40 Cyclotron. 
+
+Currently working on:
+- nFoils: Python toolkit for neutron spectrum analysis using activation foils
+- general postprocessing codes for FISPACT, MCNP, OpenMC
+- regression methods for nuclear data evaluation, gamma spectroscopy and optimisation
+
 Affiliations: 
-- University of Birmingham <br />
+- University of Birmingham
 - UK Atomic Energy Authority
-
-<!--
-**louisbutt338/louisbutt338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
