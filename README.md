@@ -1,4 +1,8 @@
-## Hi there 👋
+## Louis Butt
+
+Affiliations: <br />
+- University of Birmingham <br />
+- UK Atomic Energy Authority
 
 <!--
 **louisbutt338/louisbutt338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
