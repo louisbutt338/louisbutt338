@@ -4,8 +4,7 @@ PhD researcher and nuclear data scientist. Researching accelerator-driven fusion
 
 Currently working on:
 - nFoils: Python toolkit for neutron spectrum analysis using activation foils
-- general postprocessing codes for FISPACT, MCNP, OpenMC
-- regression methods for nuclear data evaluation, gamma spectroscopy and optimisation
+- general postprocessing and analysis codes for FISPACT, MCNP, OpenMC, SANDY
 
 Affiliations: 
 - University of Birmingham
