@@ -4,7 +4,7 @@ PhD researcher and nuclear data scientist. Researching accelerator-driven fast n
 
 Currently working on:
 - nFoils: Python toolkit for neutron spectrum analysis using activation foils
-- nuclear data library processing code using SANDY
+- nuclear data library processing code using SANDY/NJOY
 - live current reading code for Keithley picoammeter using pyserial
 - general postprocessing and analysis codes for FISPACT, MCNP, OpenMC
 
