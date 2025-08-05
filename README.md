@@ -1,6 +1,6 @@
 ## Louis Butt
 
-PhD researcher and nuclear data scientist. Researching accelerator-driven fusion neutron sources at the Birmingham MC40 Cyclotron and developing research software for nuclear data
+PhD researcher and nuclear data scientist. Researching accelerator-driven fusion neutron sources at the Birmingham MC40 Cyclotron and developing research software for nuclear data. Email me at LJB841@bham.ac.uk
 
 Currently working on:
 - nFoils: Python toolkit for neutron spectrum analysis using activation foils
