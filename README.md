@@ -1,6 +1,6 @@
-Nuclear data scientist (mid-PhD) researching neutron diagnostics and nuclear data for accelerator-driven fast neutron sources. Love learning new stuff 
+Nuclear data scientist (mid-PhD) researching neutron diagnostics and nuclear data for accelerator-driven fast neutron sources. Based at the University of Birmingham MC40 Cyclotron Facility. Love learning new stuff 
 
-Have a poke around and please get in touch if you would like to use anything without an open source licence.
+Have a poke around and please get in touch if you would like to use anything without an open source licence
 
 Currently working on:
 - nFoils: Python/C++ toolkit for neutron spectrum analysis using activation foils
