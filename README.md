@@ -2,6 +2,8 @@ Nuclear data scientist (mid-PhD) researching neutron diagnostics and nuclear dat
 
 Have a poke around and please get in touch if you would like to use anything without an open source licence
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisbutt338&theme=shadow_red&layout=compact)
+
 Currently working on:
 - nFoils: Python toolkit for neutron spectrum analysis using activation foils
 - nuclear data library processing code using SANDY/NJOY
@@ -11,6 +13,3 @@ Currently working on:
 Affiliations: 
 - University of Birmingham
 - UK Atomic Energy Authority
-
-Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisbutt338&theme=shadow_red&layout=compact)
