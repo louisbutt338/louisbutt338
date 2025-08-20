@@ -10,6 +10,6 @@ Currently working on:
 - live current reading code for picoammeters using pyserial and C++
 - general postprocessing and analysis codes for FISPACT, MCNP, OpenMC
 
-Affiliations: 
+Affiliations:
 - University of Birmingham
 - UK Atomic Energy Authority
