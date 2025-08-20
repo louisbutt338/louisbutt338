@@ -3,9 +3,9 @@ Nuclear data scientist (mid-PhD) researching neutron diagnostics and nuclear dat
 Have a poke around and please get in touch if you would like to use anything without an open source licence
 
 Currently working on:
-- nFoils: Python/C++ toolkit for neutron spectrum analysis using activation foils
+- nFoils: Python toolkit for neutron spectrum analysis using activation foils
 - nuclear data library processing code using SANDY/NJOY
-- live current reading code for picoammeters using pyserial
+- live current reading code for picoammeters using pyserial and C++
 - general postprocessing and analysis codes for FISPACT, MCNP, OpenMC
 
 Affiliations: 
