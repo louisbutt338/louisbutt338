@@ -1,4 +1,4 @@
-Nuclear data scientist (mid-PhD) researching neutron diagnostics, nuclear data and neutronics modelling for fast and low-energy neutron sources. Based at the University of Birmingham MC40 Cyclotron Facility. Love learning new stuff
+Nuclear data scientist finishing a PhD researching neutron sources. Based at the University of Birmingham MC40 Cyclotron Facility. Love learning new stuff
 
 Have a poke around and please get in touch if you would like to use anything without an open source licence
 
@@ -6,9 +6,8 @@ Have a poke around and please get in touch if you would like to use anything wit
 
 Currently working on:
 - nFoils: Python toolkit for neutron spectrum analysis using activation foils
-- nuclear data library processing code using SANDY/NJOY
 - live current reading code for picoammeters using pyserial and C++
-- general postprocessing and analysis codes for FISPACT, MCNP, OpenMC
+- general nuclear postprocessing and analysis codes for FISPACT, MCNP, OpenMC, SANDY
 
 Affiliations:
 - University of Birmingham
