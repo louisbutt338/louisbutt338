@@ -6,7 +6,6 @@ Have a poke around and please get in touch if you would like to use anything wit
 
 Currently working on:
 - nFoils: Python toolkit for neutron spectrum analysis using activation foils
-- live current reading code for picoammeters using pyserial and C++
 - general nuclear postprocessing and analysis codes for FISPACT, MCNP, OpenMC, SANDY
 
 Affiliations:
