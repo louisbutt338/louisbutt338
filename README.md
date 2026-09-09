@@ -1,9 +1,6 @@
-Data scientist and nuclear physicist finishing a PhD on uncertainty quantification for neutron spectrum measurement. Love building stuff, testing stuff and analysing stuff (mostly in python)
-
-Currently affiliated with the University of Birmingham and UK Atomic Energy Authority
+Nuclear analyst developing tools for shielding, radioisotope QC, and isotope yield calculations at StandardX. Also part-time PhD student at the University of Birmingham, researching fast neutron generation with lithium targets and neutron spectrometry with dosimetry foils. Love building stuff, testing stuff and analysing stuff (mostly in python)
 
 Have a poke around and please get in touch if you would like to use anything without an open source licence (usually fine!)
 
-Currently working on:
-- nFoils: Python package for Bayesian neutron spectrum measurement using activation foils
-- preprocessing and postprocessing scripts for the neutronics codes FISPACT, MCNP, OpenMC
+Currently contributing/maintaining:
+- bFoils: Python package for beam energy spectrum measurement using activation foils (agnostic to neutrons, charged particles etc). Focused on uncertainty quantification 
