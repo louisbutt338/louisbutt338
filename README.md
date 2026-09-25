@@ -6,4 +6,4 @@ Contributing/maintaining:
 - bFoils: Python package for beam energy spectrum measurement using activation foils (agnostic to neutrons, charged particles etc). Focused on uncertainty quantification
 
 Publications:
-- Neutron production from deuterons on lithium at 9.7 and 14 Mev, NIM B (https://www.sciencedirect.com/science/article/pii/S0168583X26003241)
+- Neutron production from deuterons on lithium at 9.7 and 14 Mev, NIM B https://www.sciencedirect.com/science/article/pii/S0168583X26003241
