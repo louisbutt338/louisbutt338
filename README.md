@@ -6,4 +6,5 @@ Contributing/maintaining:
 - nFoils: Python package for Bayesian neutron energy spectrum measurement using activation foils
 
 Publications:
+- Dosimetry foil characterisation of a new lithium-target fast neutron source, Fus Eng Design https://www.sciencedirect.com/science/article/pii/S0920379626004801
 - Neutron production from deuterons on lithium at 9.7 and 14 Mev, NIM B https://www.sciencedirect.com/science/article/pii/S0168583X26003241
